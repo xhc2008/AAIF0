@@ -1,0 +1,1 @@
+python D:/SW_awa/AAIF0/main.py
